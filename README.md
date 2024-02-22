@@ -9,6 +9,8 @@
   
 
 ![Python](https://img.shields.io/badge/-Python-1572B6?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apache-spark)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![dbt](https://img.shields.io/badge/-dbt-FF7F00?style=flat-square&logo=dbt&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
