@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/artyuan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artyuan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyuan&hide=Jupyter%20Notebook&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyuan&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
